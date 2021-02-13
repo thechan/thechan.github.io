@@ -4,4 +4,4 @@ title: "thechan blog"
 date: 2021-02-13
 ---
 
-this should mark the first entry
+these should be the second words
