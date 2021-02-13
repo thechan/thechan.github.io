@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "thechan blog"
+title: "first"
 date: 2021-02-13
 ---
 
